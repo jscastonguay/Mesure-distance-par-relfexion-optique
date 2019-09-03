@@ -6,7 +6,7 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "Mesure de distance par réflexion optique"
-Date "2019-07-12"
+Date "2019-09-03"
 Rev "--"
 Comp "Cégep La Pocatière"
 Comment1 "244-R44-LP Travail et profession"
@@ -348,7 +348,7 @@ Connection ~ 8600 3850
 Wire Wire Line
 	1450 6150 1600 6150
 Text Notes 7800 1900 0    50   ~ 10
-Condensateur de filtrage d'alimentation:\nà placer le plus proche possible de\nl'amplification opérationel (op-amp)
+Condensateur de filtrage d'alimentation:\nà placer le plus proche possible de\nl'amplificateur opérationel (op-amp)
 Wire Wire Line
 	4700 4800 4800 4800
 $Comp
